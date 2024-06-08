@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, TouchableOpacity, Text, TextInput, TouchableWithoutFeedback, Keyboard, StyleSheet } from 'react-native';
+import { View, TouchableOpacity, Text, TextInput, Keyboard, StyleSheet } from 'react-native';
 
 const NumbersCheck = (props) => {
 

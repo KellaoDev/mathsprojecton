@@ -23,7 +23,7 @@ export default function App() {
           },
         }}
         initialRouteName='Home'>
-        <Stack.Screen name='Menu' component={Menu} />
+        <Stack.Screen name='Menu' component={Menu} options={{ headerShown: false }} />
         <Stack.Screen name='Numbers Check' component={NumbersCheck} />
         <Stack.Screen name='Numbers Help' component={NumbersHelp} />
         <Stack.Screen name='MMC Calculator' component={MMCCalculator} />

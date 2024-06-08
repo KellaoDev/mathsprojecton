@@ -1,11 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { StyleSheet, Text, View, ImageBackground, TouchableOpacity, ScrollView } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
-import { Audio } from 'expo-av';
 
 const Dice = () => {
     const [number, setNumber] = useState(null)
-    const [soundEffect, setSoundEffect] = useState()
     const [numberOfSides, setNumberOfSides] = useState(2)
 
     const rollDice = async () => {
@@ -13,16 +11,6 @@ const Dice = () => {
         setNumber(numberRandow)
         await soundPlayer()
     }
-
-    const soundPlayer = async () => {
-        const { sound } = await Audio.Sound.createAsync(require('../../assets/dado-roll.mp3'))
-        setSoundEffect(sound)
-        await sound.playAsync()
-    }
-
-    useEffect(() => {
-        return soundEffect ? () => soundEffect.unloadAsync() : undefined
-    }, [soundEffect])
 
     return (
 
