@@ -1,7 +1,8 @@
-# Modelo de projeto
+# Project template
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](./README.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](./README-en.md)
 
-Esse é um projeto React Native Web vazio. Nós podemos iniciar um novo projeto clonando essa pasta para uma nova e executando o comando `npm install` para baixar todas as dependências.
+This is an empty React Native Web project. We can start a new project by cloning this folder into a new one and running the `npm install` command to download all dependencies.
 
-Após essa etapa, você pode iniciar a sua aplicação executando o comando `npm run web`.
+Project developed during the 1st period of software engineering, aims to perform some mathematical operations, discover the status of a number and a part dedicated to a dice game, in which the user can select values ​​on the side of a dice and play
+
