@@ -1,4 +1,5 @@
 # Mathsprojecton<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KellaoDev)
 # Sobre o projeto
 
 Mathsprojecton criado para matéria de estatistica básica na faculdade, é uma aplicação front-end web e mobile.
