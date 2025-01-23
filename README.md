@@ -1,9 +1,9 @@
 # Mathsprojecton<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KellaoDev)
-# Sobre o projeto
+# About the project
 
-Mathsprojecton criado para matéria de estatistica básica na faculdade, é uma aplicação front-end web e mobile.
-A aplicação conciste em realizar cálculos com números inteiros, com um botão exclusivo para se lançar um dado escolhendo sua quantidade de lados.
+Mathsprojecton created for basic statistics subject at college, is a front-end web and mobile application.
+The application consists of performing calculations with integers, with an exclusive button to roll a dice and choose the number of sides.
 
 ## Layout  mobile
 
@@ -18,7 +18,7 @@ A aplicação conciste em realizar cálculos com números inteiros, com um botã
 ![Image](https://github.com/user-attachments/assets/4152a71b-ffc2-420c-906e-1994008a05ec)<br/>
 ![Image](https://github.com/user-attachments/assets/ff2c9240-c30f-4ef3-af72-feec8b068558)<br/>
 
-## Tecnologias utilizadas
+## technologies used
 
 ### Front end
 #### • HTML / CSS / JS 
@@ -26,9 +26,9 @@ A aplicação conciste em realizar cálculos com números inteiros, com um botã
 #### • Expo
 #### • Git / GitHub
 
-## Como executar o projeto 
+## How to execute the project
 
-#### Pré requisitos: node.js
+#### Prerequisites: node.js
 
 ```bash
 # clonar repositório
@@ -40,7 +40,7 @@ npm install
 # executar o projeto
 npm run
 ```
-## Autor
+## Author
 
 ### Kélio Cirilo da Silva Filho
 https://www.linkedin.com/in/keliocirilo/
