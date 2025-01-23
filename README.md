@@ -24,6 +24,7 @@ A aplicação conciste em realizar cálculos com números inteiros, com um botã
 #### • HTML / CSS / JS 
 #### • ReactJS
 #### • Expo
+#### • Git / GitHub
 
 ## Como executar o projeto 
 
