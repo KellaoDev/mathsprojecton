@@ -18,7 +18,7 @@ The application consists of performing calculations with integers, with an exclu
 ![Image](https://github.com/user-attachments/assets/4152a71b-ffc2-420c-906e-1994008a05ec)<br/>
 ![Image](https://github.com/user-attachments/assets/ff2c9240-c30f-4ef3-af72-feec8b068558)<br/>
 
-## technologies used
+## Technologies used
 
 ### Front end
 #### • HTML / CSS / JS 
