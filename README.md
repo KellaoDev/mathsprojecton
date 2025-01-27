@@ -24,7 +24,6 @@ The application consists of performing calculations with integers, with an exclu
 #### • HTML / CSS / JS 
 #### • ReactJS
 #### • Expo
-#### • Git / GitHub
 
 ## How to execute the project
 
