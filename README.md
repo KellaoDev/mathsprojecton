@@ -30,13 +30,13 @@ The application consists of performing calculations with integers, with an exclu
 #### Prerequisites: node.js
 
 ```bash
-# clonar repositório
+# clone repository
 https://github.com/KellaoDev/mathsprojecton.git
 
-# instalar dependências
+# install dependencies
 npm install
 
-# executar o projeto
+# execute the project
 npm run
 ```
 ## Author
